@@ -1,1 +1,22 @@
 # mobile_app0
+<br><strong>Задание № 1 Простой калькулятор:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/1.jpg)
+<br><strong>Задание №2 Конвертер температур:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/2.jpg)
+<br><strong>Задание № 3 Генератор случайных чисел:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/3.jpg)
+<br><strong>Задание № 4 Проверка на простое число:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/4.jpg)
+<br><strong>Задание № 5 Счетчик слов:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/5.jpg)
+<br><strong>Задание № 6 Калькулятор BMI:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/6.jpg)
+<br><strong>Задание № 7 Cписо задач:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/16.jpg)
+<br><strong>Задание № 8 Игра угадай число:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/7.jpg)
+<br><strong>Задание № 9 Конвертер валют:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/8.jpg)
+<br><strong>Задание № 10 Проверка палидрома:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/9.jpg)
+<br><strong>Задание № 11 Калькулятор расстояния:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/10.jpg)
+<br><strong>Задание № 12 Генератор паролий:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/11.jpg)
+<br><strong>Задание № 13 Сортировка списка:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/12.jpg)
+<br><strong>Задание № 14 Калькулятор площади фигур:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/13.jpg)
+<br><strong>Задание № 15 Проверка email:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/14.jpg)
+<br><strong>Задание № 16 Игра камень ножница бумага:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/15.jpg)
+<br><strong>Задание № 17 Конвертация времени:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/16.jpg)
+<br><strong>Задание № 18 Проверка на четность:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/17.jpg)
+<br><strong>Задание № 19 Калькулятор процентов:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/18.jpg)
+
+

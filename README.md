@@ -16,7 +16,7 @@
 <br><strong>Задание № 15 Проверка email:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/14.jpg)
 <br><strong>Задание № 16 Игра камень ножница бумага:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/15.jpg)
 <br><strong>Задание № 17 Конвертация времени:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/16.jpg)
-<br><strong>Задание № 18 Проверка на четность:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/17.jpg)
-<br><strong>Задание № 19 Калькулятор процентов:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/18.jpg)
+<br><strong>Задание № 18 Проверка на четность:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/18.jpg)
+<br><strong>Задание № 19 Калькулятор процентов:</strong></br>![](https://github.com/Derz65/mobile_app0/raw/main/screenshot/17.jpg)
 
 
